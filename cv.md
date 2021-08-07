@@ -1,20 +1,28 @@
 ### rsschool-cv
+
 # Shvoren Vladislav
+
 ## My contacts
+
 - mail: shvorenvladislav@mail.ru
 - [github:](https://github.com/VlaShvor)
 - location: Minsk, metro station Petrovshchina
+
 ## About me
+
 graduated from BSEU with high academic achievement, GPA - 8,8; a hardworking and responsible person; ready to gain new skills and knowledge.
+
 ## My skills
+
 - python (NumPy, Pandas)
 - HTML
 - Git
+
 ## Code exapmle
 
 ```python
 class Matrix:
-    
+
     def __init__(self, a):
         self.a = copy.deepcopy(a)
 
@@ -37,8 +45,12 @@ class Matrix:
 ```
 
 ## Experience
+
 ## Education
+
 - The Belarus State Economic University, economist-analyst
+
 ## Language
+
 - English - B2
 - Russian - native
