@@ -14,6 +14,7 @@ graduated from BSEU with high academic achievement, GPA - 8,8; a hardworking and
 
 ```python
 class Matrix:
+    
     def __init__(self, a):
         self.a = copy.deepcopy(a)
 
@@ -32,7 +33,7 @@ class Matrix:
         return Matrix(b)
 
         def size(self):
-        return len(self.a), len(self.a[0])
+            return len(self.a), len(self.a[0])
 ```
 
 ## Experience
